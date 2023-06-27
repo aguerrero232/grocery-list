@@ -1,4 +1,4 @@
-# Ariel's Grocery List
+# Grocery List
 
 ## Fruits & Vegetables
 
